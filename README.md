@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SponexONYTB</h1>
+<h1 align="center">Hi there, I'm SponexONYTB</h1>
 <h3 align="center">Game developer | Flax Engine enthusiast | MCP builder</h3>
 
 <p align="center">
@@ -7,33 +7,30 @@
 
 ---
 
-### 🚀 What I'm building
+### What I'm building
 
 **[Flax MCP](https://github.com/SponexONYTB/flax-mcp-)** — AI-assisted Flax Engine game development with 47 tools for scene, actor, asset, script, and editor control. Integrates with Claude, Cursor, and Windsurf via Model Context Protocol.
 
-### 🔧 Tech Stack
+### Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flax_Engine-283f9a?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iNjAwIj48cmVjdCB3aWR0aD0iNjAwIiBoZWlnaHQ9IjYwMCIgZmlsbD0iIzI4M2Y5YSIvPjx0ZXh0IHg9IjMwMCIgeT0iNDAwIiBmb250LWZhbWlseT0iQXJpYWwiIGZvbnQtc2l6ZT0iNDAwIiBmaWxsPSJ3aGl0ZSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+RjwvdGV4dD48L3N2Zz4=&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flax_Engine-283f9a?style=flat-square&logo=flaxengine&logoColor=white" />
 </p>
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SponexONYTB&show_icons=true&theme=tokyonight" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SponexONYTB&layout=compact&theme=tokyonight" alt="top languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SponexONYTB&layout=compact&theme=tokyonight" alt="top languages" />
-</p>
-
-### 📫 Connect
+### Connect
 
 <p>
-  <a href="https://github.com/SponexONYTB"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/SponexONYTB"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
