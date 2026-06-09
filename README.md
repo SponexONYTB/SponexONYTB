@@ -36,6 +36,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SponexONYTB&theme=nord_dark" />
 </p>
 
+### Security Scan
+
+<p>
+  <a href="https://www.virustotal.com/gui/file/64193786945f22960e6c7ba17cc4198eb88cb253f239ebe655f6b6b7134742a2"><img src="https://img.shields.io/badge/VirusTotal-Passed-45B39D?style=for-the-badge&logo=virustotal&logoColor=white" /></a>
+</p>
+
 ### Connect
 
 <p>
