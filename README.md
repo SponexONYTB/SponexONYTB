@@ -39,6 +39,12 @@
 ### Connect
 
 <p>
+  <a href="https://discord.com/users/"><img src="https://img.shields.io/badge/Discord-vc203042-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
+
+### Connect
+
+<p>
   <a href="https://github.com/SponexONYTB"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
