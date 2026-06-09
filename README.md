@@ -23,7 +23,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/SponexONYTB?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/SponexONYTB?label=Stars&style=social" />
+  <img src="https://img.shields.io/github/stars/SponexONYTB/flax-mcp-?label=Flax%20MCP%20Stars&style=social" />
   <img src="https://img.shields.io/github/repo-size/SponexONYTB/flax-mcp-?label=Flax%20MCP%20Size&style=flat-square" />
 </p>
 
